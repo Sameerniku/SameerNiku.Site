@@ -1,0 +1,64 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 35px;
+    padding: 20;
+    border-block-color: #fcf700;
+}
+
+header {
+    background-color: #fcf700;
+    color: rgb(23, 40, 194);
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: rgb(5, 90, 247);
+}
+
+article {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+ul {
+    color:green;
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills{
+    color: rgb(1, 194, 1);
+    text-shadow: #fcf700;
+}
+
+#Photo{
+    height: 133px;
+    width: 100px;
+    border-image-width: 10px;
+    border: 100px;
+    border-radius: 10%;
+    
+    
+}
+
+#GitHub{
+    height: 15px;
+}
+
+#LinkedIn{
+    height: 15px;
+}
